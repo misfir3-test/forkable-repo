@@ -13,3 +13,7 @@
 ### Commit Three
 
 3rd Commit, bla bla
+
+### Commit Four
+
+One of these commits is not like the other
